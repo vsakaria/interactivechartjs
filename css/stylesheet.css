@@ -1,0 +1,22 @@
+#myChart {
+  float: left; }
+
+#legend {
+  border: 1px solid black;
+  float: left;
+  margin-left: 5px;
+  margin-top: 40px;
+  height: 200px;
+  width: 200px; }
+  #legend div {
+    border: 1px solid black;
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    margin: 25px 0 0px 50px; }
+  #legend #key_1 {
+    background-color: red; }
+  #legend #key_2 {
+    background-color: blue; }
+  #legend #key_3 {
+    background-color: green; }
